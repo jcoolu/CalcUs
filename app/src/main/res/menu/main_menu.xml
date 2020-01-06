@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/converter"
+        android:title="Converter"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/graph"
+        android:title="Probability"
+        app:showAsAction="never" >
+        <menu>
+            <item
+                android:id="@+id/coin"
+                android:title="Coin Toss"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/dice"
+                android:title="Roll Dice"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/spinnerspin"
+                android:title="Spin Spinner"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/randomnumber"
+                android:title="Random Numbers"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/scientific"
+        android:title="Scientific"
+        app:showAsAction="never"/>
+    <item android:title="Graph"
+        android:id="@+id/graphfunction"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/camera"
+        android:title="Camera Solve"
+        app:showAsAction="never"/>
+
+</menu>

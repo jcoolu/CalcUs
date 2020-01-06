@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="Nexus 7" />
+        <device id="pixel_2" />
+        <device id="Nexus 6P" />
+        <pickBest>false</pickBest>
+        <target>android-28</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a734d743-c6ee-4f78-b5a0-0e17e240b4cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jjoe64_graphview_4_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_phobos_jsr223_api_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_apisense_rhino_android_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mozilla_rhino_1_7R4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mozilla_rhino_1_7_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__pl_droidsonroids_gif_android_gif_drawable_1_2_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_CALC_NEW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/java_calc_new/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CalcUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CalculatorActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Camera_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CoinToss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Create_New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/DiceRoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/GraphView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Probability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Scientific_Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/SpinSpinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/applogopixel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/binary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/binary2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/c.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/calcuspixel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/cameramath.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/cameramath2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/calc2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/calculator_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/calcus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cointoss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cointoss2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/coolu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dice2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/diceroll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/die1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/die2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/die3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/die4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/die5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/die6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/heads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/invis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/my_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/numb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/number.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/number2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/percent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/spin2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/spinner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tails.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/textview_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_calculator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_camera__math.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_coin_toss.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_converter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_dice_roll.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_random_number.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_scientific__calc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_spin_spinner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-large/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-normal/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-small/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-small/activity_calculator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw600dp/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_answer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_calculator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_camera__math.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_coin_toss.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_converter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_create__new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_dice_roll.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_prob.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_random_number.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_scientific__calc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_spin_spinner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/OverlayText.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/java_calc_new/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/gc.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_jjoe64_graphview_4_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__com_sun_phobos_jsr223_api_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__io_apisense_rhino_android_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__org_mozilla_rhino_1_7R4_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__org_mozilla_rhino_1_7_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/libraries/Gradle__pl_droidsonroids_gif_android_gif_drawable_1_2_4_aar.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/JAVA_CALC_NEW.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/app.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/build.gradle" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/androidTest/java/com/example/java_calc_new/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/Answer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/CalcUs.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/CalculatorActivity.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/Camera_Math.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/CoinToss.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/Converter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/Create_New.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/DiceRoll.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/Graph.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/GraphView.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/MainActivity.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/Menu.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/Probability.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/RandomNumber.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/Scientific_Calc.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/java/com/example/java_calc_new/SpinSpinner.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/applogopixel.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/binary.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/binary2.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/c.gif" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/calcuspixel.gif" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/cameramath.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/cameramath2.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable-v24/loading.gif" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/blue.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/calc2.gif" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/calculator_background.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/calcus.gif" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/cointoss.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/cointoss2.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/coolu.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/dice2.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/diceroll.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/die1.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/die2.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/die3.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/die4.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/die5.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/die6.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/green.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/heads.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/invis.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/my_button_bg.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/numb.gif" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/number.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/number2.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/orange.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/percent.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/purple.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/red.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/spin2.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/spinner.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/tails.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/textview_background.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/drawable/yellow.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_calculator.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_camera__math.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_coin_toss.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_converter.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_dice_roll.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_graph.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_random_number.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_scientific__calc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-land/activity_spin_spinner.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-large/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-normal/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-small/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-small/activity_calculator.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout-sw600dp/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_answer.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_calc_us.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_calculator.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_camera__math.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_coin_toss.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_converter.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_create__new.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_dice_roll.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_graph.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_prob.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_random_number.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_scientific__calc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/layout/activity_spin_spinner.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/values/OverlayText.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/app/src/test/java/com/example/java_calc_new/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/build.gradle" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/gradle.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/gradlew" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/gradlew.bat" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/local.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/JAVA_CALC_NEW/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="840094250">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="53" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.111" value="1" />
+          <entry key="project.open.time.114" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="4" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="3" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.60" value="2" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.opened" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gif" value="5" />
+          <entry key="gradle" value="20" />
+          <entry key="java" value="157" />
+          <entry key="png" value="4" />
+          <entry key="xml" value="205" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="20" />
+          <entry key="Image" value="9" />
+          <entry key="JAVA" value="157" />
+          <entry key="XML" value="205" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="gradle" value="111" />
+          <entry key="java" value="9244" />
+          <entry key="txt" value="247" />
+          <entry key="xml" value="2741" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="111" />
+          <entry key="JAVA" value="9244" />
+          <entry key="PLAIN_TEXT" value="260" />
+          <entry key="XML" value="2741" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_calculator.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Scientific_Calc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CalculatorActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="48" selection-start-line="48" selection-end-line="98" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/spinner_item.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_converter.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_converter.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Probability.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/GraphView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_coin_toss.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_coin_toss.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dice_roll.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_spin_spinner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_spin_spinner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_dice_roll.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_random_number.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_random_number.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_graph.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_scientific__calc.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_scientific__calc.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Converter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/DiceRoll.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Graph.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/RandomNumber.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Scientific_Calc.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/SpinSpinner.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_camera__math.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_camera__math.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_answer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Answer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Camera_Math.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CoinToss.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CalcUs.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_calc_us.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/ViewfinderView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-small/activity_calc_us.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-large/activity_calc_us.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-normal/activity_calc_us.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-small/activity_calc_us.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_calc_us.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/calculator_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/activity_calculator.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-small/activity_calculator.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/my_button_bg.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CalculatorActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Menu.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_calculator.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="615" />
+    <option name="width" value="1312" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVA_CALC_NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_CALC_NEW" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_CALC_NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_CALC_NEW" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_CALC_NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_CALC_NEW" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_CALC_NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_CALC_NEW" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_CALC_NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_CALC_NEW" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_CALC_NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_CALC_NEW" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_CALC_NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_CALC_NEW" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-v24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_CALC_NEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_CALC_NEW" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVA_CALC_NEW" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="ZY223RXNZB" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/JAVA_CALC_NEW" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\res\drawable" />
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\res\layout" />
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\res\layout-land" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.java_calc_new" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\res\layout" />
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\java\com\example\java_calc_new" />
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\res\drawable" />
+      <recent name="C:\Users\Jamie\Documents\JAVA_CALC_NEW\app\src\main\res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Jamie\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a734d743-c6ee-4f78-b5a0-0e17e240b4cb" name="Default Changelist" comment="" />
+      <created>1552796953310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552796953310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.5169492" side_tool="true" weight="0.10714286" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.46197993" visible="true" weight="0.06396589" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Build Variants" order="7" sideWeight="0.5380201" side_tool="true" weight="0.110510044" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49733475" weight="0.3253796" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49781182" weight="0.32968238" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49671772" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.51545596" side_tool="true" weight="0.2365827" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.48454404" visible="true" weight="0.24295011" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" weight="0.329718" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.329718" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.467484" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" sideWeight="0.5169492" side_tool="true" weight="0.10714286" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.46197993" visible="true" weight="0.07036247" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Build Variants" order="7" sideWeight="0.5380201" side_tool="true" weight="0.110510044" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49733475" weight="0.3253796" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49781182" weight="0.32968238" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49671772" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.51545596" side_tool="true" weight="0.2365827" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.48454404" visible="true" weight="0.23535791" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" weight="0.329718" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.329718" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.20895523" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_graph.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/GraphView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_converter.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="145" column="44" selection-start-line="145" selection-start-column="44" selection-end-line="145" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_scientific__calc.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_scientific__calc.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="554" column="35" selection-start-line="554" selection-start-column="35" selection-end-line="554" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Probability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/DiceRoll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Create_New.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/SpinSpinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="89" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/numb.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/loading.gif" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/loading.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/RandomNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_random_number.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="121" column="45" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_camera__math.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_camera__math.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Answer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CoinToss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="129" column="33" selection-start-line="129" selection-start-column="33" selection-end-line="129" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/calcus.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CalcUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/help.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/ViewfinderView.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-small/activity_calc_us.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_answer.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_calc_us.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp/activity_calc_us.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-normal/activity_calc_us.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-small/activity_calc_us.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_calc_us.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_calc_us.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Camera_Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="76" column="60" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/my_button_bg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-small/activity_calculator.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="282" column="44" selection-start-line="282" selection-start-column="44" selection-end-line="282" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_calculator.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6052">
+          <caret line="356" column="43" selection-start-line="356" selection-start-column="43" selection-end-line="356" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/calculator_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_calculator.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Scientific_Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/CalculatorActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="48" selection-start-line="48" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/java_calc_new/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

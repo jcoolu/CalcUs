@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CalcUs</string>
+    <string name="Equals">=</string>
+    <string name="Percent">%</string>
+    <string name="Root">Root</string>
+    <string name="x_2">x^2</string>
+    <string name="Reciprocal">1/x</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Multiply">*</string>
+    <string name="Four">4</string>
+    <string name="One">1</string>
+    <string name="Divide">/</string>
+    <string name="Six">6</string>
+    <string name="Five">5</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Add">+</string>
+    <string name="Decimal">.</string>
+    <string name="Sign">+-</string>
+    <string name="Subtract">-</string>
+    <string name="Clr">Clear</string>
+    <string name="Pi">Pi</string>
+    <string name="Mod">Mod</string>
+    <string name="Del">Del</string>
+
+    <string name="Converter">converter</string>
+    <string name="Graph">graph</string>
+    <string name="clr">Clr</string>
+    <string name="Create">create</string>
+    <string name="to">To</string>
+    <string name="number_converter">Number Converter</string>
+    <string name="Input">Input</string>
+    <string name="Output">Output</string>
+    <string name="Convert">Convert</string>
+</resources>
