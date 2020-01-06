@@ -13,6 +13,10 @@ public class Scientific_Calc extends AppCompatActivity {
     private double firstNum = 0; //first number
     private String state = "";
 
+    /**
+     * onCreate
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
