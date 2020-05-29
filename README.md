@@ -36,12 +36,12 @@ The CalcUs was designed to be like an all-in-one calculator app so you would not
 
 ![opening](/ReadmePics/openinggif.gif)
 
-## Software/Libraries Used <a name="use?"> </a>
+## ![Book](/ReadmePics/book.png) Software/Libraries Used <a name="use?"> </a>
 
 - Android Studio
   - https://developer.android.com/studio/
 - Java 13
   - https://www.oracle.com/java/technologies/javase-downloads.html
   
-  ## Credits
+  ## ![Smile](/ReadmePics/smile.png) Credits
  - [Jamie Coulombe](https://github.com/jcoolu) (me)
