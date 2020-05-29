@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JAVA_CALC_NEW.iml" filepath="$PROJECT_DIR$/JAVA_CALC_NEW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcUs.iml" filepath="$PROJECT_DIR$/CalcUs.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
