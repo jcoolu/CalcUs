@@ -43,5 +43,5 @@ The CalcUs was designed to be like an all-in-one calculator app so you would not
 - Java 13
   - https://www.oracle.com/java/technologies/javase-downloads.html
   
-  ## ![Smile](/ReadmePics/smile.png) Credits
- - [Jamie Coulombe](https://github.com/jcoolu) (me)
+## ![Smile](/ReadmePics/smile.png) Credits
+- [Jamie Coulombe](https://github.com/jcoolu) (me)
