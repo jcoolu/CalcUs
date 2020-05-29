@@ -11,8 +11,8 @@ CalcUs "Advertisement" Video: https://www.youtube.com/watch?v=bhoyvtPc60M
 ## Table of Contents
 
 - ![CalcUs Icon](/ReadmePics/titleicon.png)[What is CalcUs?](#what-is-CalcUs?)
-- ![Book](/application/Images/book.png)[Software/Libraries Used](#use)
-- ![Smile](/application/Images/smile.png)[Credits](#credits)
+- ![Book](/ReadmePics/book.png)[Software/Libraries Used](#use)
+- ![Smile](/ReadmePics/smile.png)[Credits](#credits)
 
 ## ![CalcUs Icon](/ReadmePics/titleicon.png) What is CalcUs? <a name="what-is-CalcUs?"> </a>
 
@@ -29,7 +29,7 @@ CalcUs was an idea I designed for my Writing For Professional Settings class tha
 - graph stats and probability (yes; coin toss, generate random numbers, dice roll, spin the wheel)
 ![stats](/ReadmePics/stats.gif)
 - scientific calculator (not finished; demo) 
-
+ReadmePics
 ![Menu](/ReadmePics/menu.PNG)
 
 The CalcUs was designed to be like an all-in-one calculator app so you would not need a graphing calculator. 
