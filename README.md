@@ -26,6 +26,7 @@ CalcUs was an idea I designed for my Writing For Professional Settings class tha
 - graph functions and tables (not finished; was created as a "demo" to show the functionality)
 - number conversions (yes; can convert binary, decimal, hexadecimal, and octal)
 - graph stats and probability (yes; coin toss, generate random numbers, dice roll, spin the wheel)
+![Menu](/ReadmePics/stats.gif)
 - scientific calculator (not finished; demo) 
 
 ![Menu](/ReadmePics/menu.PNG)
