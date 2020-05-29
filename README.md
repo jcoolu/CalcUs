@@ -28,7 +28,11 @@ CalcUs was an idea I designed for my Writing For Professional Settings class tha
 - graph stats and probability (yes; coin toss, generate random numbers, dice roll, spin the wheel)
 - scientific calculator (not finished; demo) 
 
+![Menu](/ReadmePics/menu.PNG)
+
 The CalcUs was designed to be like an all-in-one calculator app so you would not need a graphing calculator. 
+
+![opening](/ReadmePics/openinggif.gif)
 
 ## Software/Libraries Used <a name="use?"> </a>
 
